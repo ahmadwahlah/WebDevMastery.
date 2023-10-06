@@ -27,6 +27,9 @@ function Hero() {
           Optimize your web development processes to boost revenue for B2B, D2C,
           and SaaS platforms.
         </p>
+        <button className=" hover:bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black bg-[#00df98d6]">
+          Get Started
+        </button>
       </div>
     </div>
   );
