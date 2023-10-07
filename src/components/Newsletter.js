@@ -17,7 +17,7 @@ function Newsletter() {
               type="email"
               placeholder="Enter Email"
             />
-            <button className="text-black rounded-md bg-[#00df9a] font-medium w-[200px] ml-4 my-6 px-6 py-3">
+            <button className="text-black rounded-md hover:bg-[#00df9a] bg-[#00df98d6] font-medium w-[200px] ml-4 my-6 px-6 py-3">
               Notify Me
             </button>
           </div>
