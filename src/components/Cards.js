@@ -34,7 +34,7 @@ function Card() {
           <h2 className="text-center font-bold py-8 text-2xl">
             DevPro Mastery
           </h2>
-          <p className="text-center text-4xl font-bold">$149</p>
+          <p className="text-center text-4xl font-bold">$199</p>
           <div className="text-center font-medium">
             <p className="py-2 border-b mx-8 mt-8 border-t ">
               Master React, Node.js, SQL.
