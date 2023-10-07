@@ -12,7 +12,7 @@ function Hero() {
           Unlock Web Potential.
         </h1>
         <div className="flex justify-center items-center">
-          <p className="text-xl sm:text-4xl md:text-5xl font-bold py-2">
+          <p className="text-xl sm:text-3xl md:text-4xl font-bold py-2">
             Boost revenue and performance for
           </p>
           <Typed
