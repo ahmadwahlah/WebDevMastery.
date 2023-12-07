@@ -1,18 +1,28 @@
 # WebDevMastery Landing Page
 
-Welcome to the WebDevMastery Product Landing Page project! This React-based landing page showcases our web development services.
+Welcome to the WebDevMastery Product Landing Page project! This responsive React-based landing page showcases web development services.
 
-## Features
+## Sections
 
-- Home page introducing WebDevMastery.
-- Service packages for skill advancement.
-- Subscription for updates.
-- Connect with us on social media.
+- Hero Section
+- Get Started Section
+- Stay Updated Section
+- Packages Section
 
 ## Technologies
 
 - React.js
 - Tailwind CSS
+
+## Screenshots
+
+![hero](/screenshots/hero.png)
+
+![getStarted](/screenshots/getStarted.png)
+
+![packages](/screenshots/packages.png)
+
+![footer](/screenshots/footer.png)
 
 ## Getting Started
 
